@@ -26,8 +26,8 @@ I'm a passionate Technical Architect, specializing in development. I enjoy tackl
 
 ## Tech Stack
 
-- 💻 [Java, JS, Python ] 
-- 🌐 [Vue, Spring, MySQL, Oracle, MongoDB, PostgreSQL, Redis]
+- 💻 [Java, JavaScript, Python ] 
+- 🌐 [Spring, Kafka, Vue, Node.js , Kafka, MySQL, Oracle, MongoDB, PostgreSQL, Redis]
 - 🛠️ [AWS, GCP, Jenkins, Docker, Kubernetes]
   
 <!--  

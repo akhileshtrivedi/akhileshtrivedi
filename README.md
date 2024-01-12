@@ -26,11 +26,10 @@ I'm a passionate Technical Architect, specializing in development. I enjoy tackl
 
 ## Tech Stack
 
-- 💻 [Java, JS, Python ]
-<!--   
-- 🌐 [Your Web Development Tools and Frameworks]
-- 🛠️ [Other Tools and Technologies You Use]
--->
+- 💻 [Java, JS, Python ] 
+- 🌐 [Vue, Spring, MySQL, Oracle, MongoDB, PostgreSQL, Redis]
+- 🛠️ [AWS, GCP, Jenkins, Docker, Kubernetes]
+  
 <!--  
 ## GitHub Stats
 

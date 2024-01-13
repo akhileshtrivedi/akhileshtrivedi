@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a passionate Technical Architect, specializing in development. I enjoy tackling complex problems and building solutions that make a positive impact. My journey in the world of technology has been a thrilling adventure, and I'm always eager to learn and grow.
 
 - 🔭 I’m currently working on Aman Technologies
-- 🌱 I’m currently learning some new things
+- 🌱 I’m currently learning some new things which I'll use in near future
 - 💬 Ask me about System Design, Java and Vue
 - 📫 How to reach me: [atakhileshtrivedi@gmail.com]
 
